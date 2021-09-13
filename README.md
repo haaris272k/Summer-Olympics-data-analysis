@@ -1,2 +1,2 @@
 # Summer-Olympics-data-analysis
-This was an assignment done at the period of my internship in Elite Techno Groups.
+This was an assignment done at the period of my internship at Elite Techno Groups. The task waa to find the answer of some given questions through the help of data analysis.
