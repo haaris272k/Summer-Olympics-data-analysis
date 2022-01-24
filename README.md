@@ -1,2 +1,2 @@
 # Summer-Olympics-data-analysis
-Analysis of summer olympics.
+Performed a basic Data Analysis on summer olympics.
